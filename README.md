@@ -2,7 +2,8 @@
 
 This is a DIY digital clock project built using IC 4060 and 4013 integrated circuits. It displays the current time on a 7-segment LED display with high accuracy. The project combines both digital and analog components to create a functional and educational timekeeping solution.
 
-![Digital Clock]("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS92eisuWOx3tEjeW14mT9ACVgXDwIRBGtnww&usqp=CAU")
+![Digital Clock](https://github.com/Quan20021511/Digital_Clock/assets/129273695/fd10bbda-a1b8-4c67-a19c-0fb75299d3a0)
+
 
 ## Features
 
